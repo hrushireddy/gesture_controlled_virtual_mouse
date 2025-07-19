@@ -97,12 +97,6 @@ Make sure your **webcam and microphone** are enabled and functional.
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-_Add screenshots of the assistant running or gesture controls in action_
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share it with attribution.
